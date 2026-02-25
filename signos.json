@@ -1,0 +1,98 @@
+{
+  "aries": {
+    "nome": "Áries",
+    "simbolo": "♈",
+    "carta": "Ás de Ouros",
+    "previsao": "Novas oportunidades materiais e práticas surgem hoje.",
+    "conselho": "Aceite o novo com confiança e invista em estrutura sólida.",
+    "comente": "Prospera"
+  },
+  "touro": {
+    "nome": "Touro",
+    "simbolo": "♉",
+    "carta": "Dois de Paus",
+    "previsao": "O dia favorece planejamento e expansão.",
+    "conselho": "Avalie caminhos com calma",
+    "comente": "Expande"
+  },
+  "gemeos": {
+    "nome": "Gêmeos",
+    "simbolo": "♊",
+    "carta": "Três de Espadas",
+    "previsao": "Questões emocionais pedem atenção. Verdades surgem e promovem cura.",
+    "conselho": "Acolha suas emoções e permitas-se",
+    "comente": "Libera"
+  },
+  "cancer": {
+    "nome": "Câncer",
+    "simbolo": "♋",
+    "carta": "Quatro de Ouros",
+    "previsao": "Você busca segurança, mas excesso de controle pode bloquear fluidez.",
+    "conselho": "Solte o medo e permita mais movimento.",
+    "comente": "Coragem"
+  },
+  "leao": {
+    "nome": "Leão",
+    "simbolo": "♌",
+    "carta": "Cinco de Paus",
+    "previsao": "Desafios e conflitos movimentam seu dia, estimulando evolução.",
+    "conselho": "Enfrente com coragem, mas evite disputas desnecessárias.",
+    "comente": "Superar"
+  },
+  "virgem": {
+    "nome": "Virgem",
+    "simbolo": "♍",
+    "carta": "Seis de Copas",
+    "previsao": "Memórias, reencontros e nostalgia surgem. O dia favorece reconexões emocionais e cura.",
+    "conselho": "Valorize o passado, mas viva plenamente o presente.",
+    "comente": "Acolher"
+  },
+  "libra": {
+    "nome": "Libra",
+    "simbolo": "♎",
+    "carta": "Sete de Espadas",
+    "previsao": "Atenção a estratégias ocultas e informações incompletas. O dia pede cautela, discrição e movimentos inteligentes",
+    "conselho": "Proteja seus planos e observe.",
+    "comente": "Cuidar"
+  },
+  "escorpiao": {
+    "nome": "Escorpião",
+    "simbolo": "♏",
+    "carta": "Oito de Ouros",
+    "previsao": "Trabalho dedicado produz resultados importantes.",
+    "conselho": "Invista tempo em melhorar habilidades e fortalecer sua base.",
+    "comente": "Aprimora"
+  },
+  "sagitario": {
+    "nome": "Sagitário",
+    "simbolo": "♐",
+    "carta": "Nove de Paus",
+    "previsao": "Resistência será sua força. Mesmo cansado, você continua firme.",
+    "conselho": "Mantenha-se forte: você está perto de uma grande virada.",
+    "comente": "Persiste"
+  },
+  "capricornio": {
+    "nome": "Capricórnio",
+    "simbolo": "♑",
+    "carta": "Dez de Ouros",
+    "previsao": "O dia traz segurança, prosperidade e estabilidade familiar.",
+    "conselho": "Agradeça e valorize tudo que construiu com dedicação.",
+    "comente": "Consolida"
+  },
+  "aquario": {
+    "nome": "Aquário",
+    "simbolo": "♒",
+    "carta": "Pajem de Paus",
+    "previsao": "Novidades animadoras surgem, despertando entusiasmo e criatividade.",
+    "conselho": "Permita-se explorar ideias e seguir impulsos criativos.",
+    "comente": "Inova"
+  },
+  "peixes": {
+    "nome": "Peixes",
+    "simbolo": "♓",
+    "carta": "Cavaleiro de Copas",
+    "previsao": "Você avança guiado por sentimentos verdadeiros.",
+    "conselho": "Expresse afeto com sinceridade e siga sua intuição.",
+    "comente": "Amar"
+  }
+}
