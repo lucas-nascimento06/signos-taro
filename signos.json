@@ -1,99 +1,98 @@
-
 {
   "aries": {
     "nome": "Áries",
     "simbolo": "♈",
     "carta": "Três de Paus",
-    "previsao": "Você enxerga crescimento à frente. O dia favorece expansão.",
-    "conselho": "Confie na direção e continue avançando com visão.",
-    "comente": "Ver"
+    "previsao": "Projetos avançarão e oportunidades surgirão, trazendo crescimento e confiança.",
+    "conselho": "Continue avançando.",
+    "comente": "Avance"
   },
   "touro": {
     "nome": "Touro",
     "simbolo": "♉",
-    "carta": "Quatro de Ouros",
-    "previsao": "Busca por segurança se intensifica. O dia favorece estabilidade.",
-    "conselho": "Equilibre controle e flexibilidade.",
-    "comente": "Estabilidade"
+    "carta": "Quatro de Copas",
+    "previsao": "Um despertar acontecerá, mudando sua visão e trazendo novas possibilidades.",
+    "conselho": "Aceite o novo.",
+    "comente": "Novo"
   },
   "gemeos": {
     "nome": "Gêmeos",
     "simbolo": "♊",
-    "carta": "Seis de Copas",
-    "previsao": "Memórias e reencontros trazem emoção ao dia.",
-    "conselho": "Acolha lembranças, mas mantenha o foco.",
-    "comente": "Emociona"
+    "carta": "Cinco de Ouros",
+    "previsao": "Situações se reorganizarão e trarão aprendizado sobre valor e estabilidade.",
+    "conselho": "Aceite ajuda.",
+    "comente": "Ajudar"
   },
   "cancer": {
     "nome": "Câncer",
     "simbolo": "♋",
-    "carta": "Oito de Espadas",
-    "previsao": "Pensamentos limitantes podem prender suas ações.",
-    "conselho": "Questione seus medos e permita novas perspectivas.",
-    "comente": "Liberta"
+    "carta": "Seis de Espadas",
+    "previsao": "Situações difíceis ficarão para trás, abrindo espaço para mais calma e clareza.",
+    "conselho": "Aceite mudanças.",
+    "comente": "Clareza"
   },
   "leao": {
     "nome": "Leão",
     "simbolo": "♌",
-    "carta": "Nove de Ouros",
-    "previsao": "Autonomia e conquistas pessoais se destacam. Você colhe frutos do seu esforço e sente orgulho.",
-    "conselho": "Valorize suas vitórias e aproveite o momento com gratidão.",
-    "comente": "Prosperar"
+    "carta": "Sete de Copas",
+    "previsao": "O dia pede análise para escolher caminhos que realmente tragam evolução.",
+    "conselho": "Escolha com cuidado.",
+    "comente": "Evoluir"
   },
   "virgem": {
     "nome": "Virgem",
     "simbolo": "♍",
-    "carta": "Dez de Paus",
-    "previsao": "Sobrecarga pode surgir. O dia pede organização, limites e consciência.",
-    "conselho": "Delegue tarefas e cuide melhor da sua energia.",
-    "comente": "Aliviar"
+    "carta": "Oito de Paus",
+    "previsao": "Notícias chegarão rapidamente e decisões serão tomadas com agilidade, trazendo avanços importantes no seu caminho.",
+    "conselho": "Aja rápido.",
+    "comente": "Agilidade"
   },
   "libra": {
     "nome": "Libra",
     "simbolo": "♎",
-    "carta": "Ás de Espadas",
-    "previsao": "Clareza mental e decisões firmes marcam o dia. Verdades surgem e ajudam você.",
-    "conselho": "Seja direto e confie na sua capacidade de decidir.",
-    "comente": "Firmeza"
+    "carta": "Nove de Ouros",
+    "previsao": "Resultados do seu esforço aparecerão, trazendo sensação de valor e reconhecimento.",
+    "conselho": "Celebre suas conquistas.",
+    "comente": "Celebrar"
   },
   "escorpiao": {
     "nome": "Escorpião",
     "simbolo": "♏",
-    "carta": "Dois de Copas",
-    "previsao": "Parcerias se fortalecem. O dia favorece união, reconciliações.",
-    "conselho": "Valorize relações sinceras e cultive reciprocidade.",
-    "comente": "Une"
+    "carta": "Dez de Copas",
+    "previsao": "Relações se fortalecerão e sentimentos positivos trarão sensação de plenitude emocional e conexão profunda.",
+    "conselho": "Valorize quem está com você.",
+    "comente": "Bom"
   },
   "sagitario": {
     "nome": "Sagitário",
     "simbolo": "♐",
-    "carta": "Sete de Ouros",
-    "previsao": "Resultados estão próximos, mas exigem paciência. O dia destaca processos em crescimento.",
-    "conselho": "Confie no tempo e continue.",
-    "comente": "Paciente"
+    "carta": "Pajem de Ouros",
+    "previsao": "Pequenos começos trarão crescimento consistente e evolução prática ao longo do tempo.",
+    "conselho": "Valorize seus avanços.",
+    "comente": "Iniciar"
   },
   "capricornio": {
     "nome": "Capricórnio",
     "simbolo": "♑",
-    "carta": "Oito de Paus",
-    "previsao": "Movimento e rapidez marcam seu dia. Notícias e decisões surgem rapidamente.",
-    "conselho": "Aproveite o ritmo e finalize o que está pendente.",
-    "comente": "Agil"
+    "carta": "Cavaleiro de Espadas",
+    "previsao": "Situações serão resolvidas com firmeza, trazendo progresso e decisões importantes.",
+    "conselho": "Pense antes de agir.",
+    "comente": "Sucesso"
   },
   "aquario": {
     "nome": "Aquário",
     "simbolo": "♒",
-    "carta": "Pajem de Copas",
-    "previsao": "Sensibilidade e novas emoções surgem. O dia favorece criatividade.",
-    "conselho": "Escute sua intuição e expresse sentimentos com leveza.",
-    "comente": "Intuir"
+    "carta": "Ás de Copas",
+    "previsao": "Sentimentos se renovarão e conexões sinceras surgirão, trazendo leveza e abertura para o amor.",
+    "conselho": "Permita-se sentir novas emoções.",
+    "comente": "Amar"
   },
   "peixes": {
     "nome": "Peixes",
     "simbolo": "♓",
-    "carta": "Cavaleiro de Ouros",
-    "previsao": "Avanços lentos, porém seguros. O dia favorece disciplina, rotina.",
-    "conselho": "Mantenha constância e confie no progresso gradual.",
-    "comente": "Constante"
+    "carta": "Dois de Copas",
+    "previsao": "Relações se harmonizarão e novas conexões surgirão, trazendo equilíbrio e parceria verdadeira.",
+    "conselho": "Cultive relações sinceras.",
+    "comente": "Parcerias"
   }
 }
