@@ -2,97 +2,97 @@
   "aries": {
     "nome": "Áries",
     "simbolo": "♈",
-    "carta": "Três de Paus",
-    "previsao": "Projetos avançarão e oportunidades surgirão, trazendo crescimento e confiança.",
-    "conselho": "Continue avançando.",
-    "comente": "Avance"
+    "carta": "A Cruz",
+    "previsao": "Você enfrentará uma situação importante que trará aprendizado valioso e fortalecerá a sua fé.",
+    "conselho": "Mantenha a confiança.",
+    "comente": "Coragem"
   },
   "touro": {
     "nome": "Touro",
     "simbolo": "♉",
-    "carta": "Quatro de Copas",
-    "previsao": "Um despertar acontecerá, mudando sua visão e trazendo novas possibilidades.",
-    "conselho": "Aceite o novo.",
-    "comente": "Novo"
+    "carta": "Os Peixes",
+    "previsao": "Uma oportunidade ligada ao dinheiro surgirá trazendo maior tranquilidade.",
+    "conselho": "Tenha sabedoria.",
+    "comente": "Prosperar"
   },
   "gemeos": {
     "nome": "Gêmeos",
     "simbolo": "♊",
-    "carta": "Cinco de Ouros",
-    "previsao": "Situações se reorganizarão e trarão aprendizado sobre valor e estabilidade.",
-    "conselho": "Aceite ajuda.",
-    "comente": "Ajudar"
+    "carta": "A Cegonha",
+    "previsao": "Uma mudança acontecerá trazendo novos hábitos e oportunidades.",
+    "conselho": "Aceite as transformações.",
+    "comente": "Renovar"
   },
   "cancer": {
     "nome": "Câncer",
     "simbolo": "♋",
-    "carta": "Seis de Espadas",
-    "previsao": "Situações difíceis ficarão para trás, abrindo espaço para mais calma e clareza.",
-    "conselho": "Aceite mudanças.",
-    "comente": "Clareza"
+    "carta": "O Cachorro",
+    "previsao": "Uma amizade verdadeira mostrará seu valor através de apoio sincero.",
+    "conselho": "Valorize quem é leal.",
+    "comente": "Amizade"
   },
   "leao": {
     "nome": "Leão",
     "simbolo": "♌",
-    "carta": "Sete de Copas",
-    "previsao": "O dia pede análise para escolher caminhos que realmente tragam evolução.",
-    "conselho": "Escolha com cuidado.",
-    "comente": "Evoluir"
+    "carta": "A Carta",
+    "previsao": "Uma comunicação importante chegará trazendo esclarecimentos necessários.",
+    "conselho": "Observe antes de tomar decisões importantes.",
+    "comente": "Resposta"
   },
   "virgem": {
     "nome": "Virgem",
     "simbolo": "♍",
-    "carta": "Oito de Paus",
-    "previsao": "Notícias chegarão rapidamente e decisões serão tomadas com agilidade, trazendo avanços importantes no seu caminho.",
-    "conselho": "Aja rápido.",
-    "comente": "Agilidade"
+    "carta": "O Jardim",
+    "previsao": "Você conhecerá pessoas interessantes que abrirão portas e trarão oportunidades.",
+    "conselho": "Esteja aberto para novas conexões.",
+    "comente": "Encontro"
   },
   "libra": {
     "nome": "Libra",
     "simbolo": "♎",
-    "carta": "Nove de Ouros",
-    "previsao": "Resultados do seu esforço aparecerão, trazendo sensação de valor e reconhecimento.",
-    "conselho": "Celebre suas conquistas.",
-    "comente": "Celebrar"
+    "carta": "A Lua",
+    "previsao": "Sua criatividade aumentará e você receberá reconhecimento por algo especial.",
+    "conselho": "Confie nos seus talentos.",
+    "comente": "Inspirar"
   },
   "escorpiao": {
     "nome": "Escorpião",
     "simbolo": "♏",
-    "carta": "Dez de Copas",
-    "previsao": "Relações se fortalecerão e sentimentos positivos trarão sensação de plenitude emocional e conexão profunda.",
-    "conselho": "Valorize quem está com você.",
-    "comente": "Bom"
+    "carta": "O Caminho",
+    "previsao": "Uma nova possibilidade surgirá exigindo escolha importante, mas você encontrará a direção.",
+    "conselho": "Avalie as opções com calma.",
+    "comente": "Focar"
   },
   "sagitario": {
     "nome": "Sagitário",
     "simbolo": "♐",
-    "carta": "Pajem de Ouros",
-    "previsao": "Pequenos começos trarão crescimento consistente e evolução prática ao longo do tempo.",
-    "conselho": "Valorize seus avanços.",
-    "comente": "Iniciar"
+    "carta": "A Criança",
+    "previsao": "Uma experiência diferente despertará entusiasmo e alegria, fazendo você enxergar oportunidades.",
+    "conselho": "Permita-se aprender.",
+    "comente": "Alegria"
   },
   "capricornio": {
     "nome": "Capricórnio",
     "simbolo": "♑",
-    "carta": "Cavaleiro de Espadas",
-    "previsao": "Situações serão resolvidas com firmeza, trazendo progresso e decisões importantes.",
-    "conselho": "Pense antes de agir.",
-    "comente": "Sucesso"
+    "carta": "A Estrela",
+    "previsao": "Você verá um sonho ganhar força, trazendo esperança renovada e sinais positivos.",
+    "conselho": "Continue acreditando.",
+    "comente": "Sonhos"
   },
   "aquario": {
     "nome": "Aquário",
     "simbolo": "♒",
-    "carta": "Ás de Copas",
-    "previsao": "Sentimentos se renovarão e conexões sinceras surgirão, trazendo leveza e abertura para o amor.",
-    "conselho": "Permita-se sentir novas emoções.",
-    "comente": "Amar"
+    "carta": "O Sol",
+    "previsao": "Um período de conquistas chegará trazendo felicidade e mais segurança.",
+    "conselho": "Aproveite sua confiança.",
+    "comente": "Sucesso"
   },
   "peixes": {
     "nome": "Peixes",
     "simbolo": "♓",
-    "carta": "Dois de Copas",
-    "previsao": "Relações se harmonizarão e novas conexões surgirão, trazendo equilíbrio e parceria verdadeira.",
-    "conselho": "Cultive relações sinceras.",
-    "comente": "Parcerias"
+    "carta": "A Chave",
+    "previsao": "Uma solução aparecerá no momento certo, resolvendo uma questão importante.",
+    "conselho": "Aja com determinação.",
+    "comente": "Solucionar"
   }
 }
